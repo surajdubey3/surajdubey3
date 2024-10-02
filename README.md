@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=FFD95A&width=600&height=45&lines=I+am+a+Front-end+Developer;I+am+a+Full+Stack+Web+Developer;I+am+a+Java+Developer;I+am+a+React+Developer;I+am+a+Back-end+Developer) <br>
 I am a Java developer and Full stack developer with a focus on the MERN stack (MongoDB, Express, React, and Node.js). With experience in both front-end and back-end development, I have a well-rounded skillset that allows me to build and maintain complex web applications from start to finish. In addition to my technical skills, I am a strong problem-solver and always looking for ways to improve my processes and increase efficiency.
 
-- 🌱 I’m currently learning **React Frameworks**
+- 🌱 I’m currently learning **Angular**
 
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Bootstrap, SQL, MongoDB, React, Node and Express**
 
