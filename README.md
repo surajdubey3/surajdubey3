@@ -8,6 +8,10 @@ I am a Java developer and Full stack developer with a focus on the MERN stack (M
 
 - 🌱 I’m currently learning **Angular**
 
+- 👯 I’m looking to collaborate on **Software Projects**
+
+- 🤝 I’m looking for a new role of **Software Developer , Front-end Developer**
+
 - 💬 Ask me about **HTML, CSS, JavaScript, Java, Bootstrap, SQL, MongoDB, React, Node and Express**
 
 - 📫 How to reach me **surajdubey0317@gmail.com**
